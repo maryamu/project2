@@ -1,0 +1,17 @@
+List of references I used for this project:
+
+
+Udacity course: Intro to HTML and CSS
+Udacity course: How to use Git and GitHub
+Udacity course: JavaScript Basics 
+Udacity course: Intro to jQuery 
+https://www.udacity.com
+
+
+http://www.w3schools.com/
+https://developer.mozilla.org/
+
+
+
+frontend-nanodegree-resume repository
+https://github.com/udacity/frontend-nanodegree-resume.git
